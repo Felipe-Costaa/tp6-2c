@@ -1,0 +1,23 @@
+{
+  "name": "tp6-p2c",
+  "version": "1.0.0",
+  "description": "Segunda chamada da primeira prova de tecnicas de programação \u001b[C\u001b[D6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felipe-Costaa/tp6-p2c.git"
+  },
+  "author": "Felipe Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felipe-Costaa/tp6-p2c/issues"
+  },
+  "homepage": "https://github.com/Felipe-Costaa/tp6-p2c#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sequelize": "^6.27.0"
+  }
+}
